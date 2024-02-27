@@ -1719,9 +1719,9 @@ a.fg-light:hover, a.fg-light:focus {
   font-weight: 400;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 1000px) {
   .hero-carousel h1 {
-    font-size: 56px;
+    font-size: 35px;
   }
   .hero-carousel .subhead {
     font-size: 20px;
